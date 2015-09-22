@@ -1,0 +1,26 @@
+{
+  "name": "unslug",
+  "version": "0.1.0",
+  "description": "un-slug in node.js implementation. Change slug 'hello-world' to 'Hello World' ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jackniu81 <jackniu81@163.com>",
+  "license": "MIT",
+  "keywords": [
+    "slug",
+    "unslug"
+  ],
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackniu81/node-unslug.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jackniu81/node-unslug/issues"
+  },
+  "homepage": "https://github.com/jackniu81/node-unslug#readme"
+}
